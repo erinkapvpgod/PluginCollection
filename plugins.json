@@ -315,6 +315,12 @@
 			"desc": "Protects loot dropped upon death",
 			"jarName": "LootProtect.jar",
 			"configName": "LootProtect"
+		},
+		{
+			"name": "Loot Protect",
+			"desc": "Protects loot dropped upon death",
+			"jarName": "LootProtect.jar",
+			"configName": "LootProtect"
 		}
 	]
 }
